@@ -12,7 +12,7 @@ We will be using [Segmentation Full Body MADS Dataset](https://www.kaggle.com/da
 
 ## Stating Notebook
 
-Start the lab by opening [BodySegmentation.ipynb](BodySegmentation.ipynb)
+Start the lab by opening [L08_BodySegmentation.ipynb](https://www.kaggle.com/code/juanmartinezv4399/l08-bodysegmentation)
 
 ## Takeaway
 
